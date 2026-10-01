@@ -139,7 +139,7 @@ I am interested in opportunities related to:
 
 # 📫 Connect With Me
 
-- GitHub: [github.com/hamedanchi](https://github.com/hamedanchi)
+- GitHub: [github.com/hamedanchi](https://github.com/farzaneh-hamedanchi)
 - LinkedIn: Add your LinkedIn URL here
 - Portfolio: Add your portfolio website here
 
